@@ -1,1 +1,1 @@
-(https://media.licdn.com/dms/image/v2/D4D12AQF5GiLA7L7gWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684559947493?e=1767830400&v=beta&t=2WicB5k9Lo9jSsbEfiPQpaYvz1PeRGr4Aa7VNkXQwx4)
+[View image](https://media.licdn.com/dms/image/v2/D4D12AQF5GiLA7L7gWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1684559947493?e=1767830400&v=beta&t=2WicB5k9Lo9jSsbEfiPQpaYvz1PeRGr4Aa7VNkXQwx4)
