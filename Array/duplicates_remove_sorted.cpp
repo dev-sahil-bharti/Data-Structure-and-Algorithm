@@ -16,13 +16,21 @@ int removeDuplicates(int arr[], int n)
 }
 int main()
 {
-    int arr[] = {1, 2, 2, 3, 3, 4, 5};
+    int arr[] = {1, 2, 3, 3, 5, 5, 6};
+
     int n = 7;
-    int newLength = removeDuplicates(arr, n);
-    cout << "\nRemove Duplicates Elements: ";
+    int NewLenght = removeDuplicates(arr, n);
+
+    cout << "array is: ";
     for (int i = 0; i < n; i++)
     {
-        cout << arr[i] << " ";
+        cout << arr[i] << ", ";
+    }
+
+    cout << "\nremove duplicates: ";
+    for (int i = 0; i < NewLenght; i++)
+    {
+        cout << arr[i] << ", ";
     }
 
     return 0;
