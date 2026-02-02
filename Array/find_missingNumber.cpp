@@ -39,7 +39,7 @@ int betterMissingNumber(int arr[], int n)
     }
     return -1;
 }
-// Optimal Approachz
+// Optimal Approach
 
 // int OptimalMissingNumber(int arr[], int n)
 // {
@@ -74,7 +74,7 @@ int main()
     int n = 5;
 
     // cout << "Missing Number is: " << missingNumber(arr, n);
-    cout << "Missing Number is: " << optimalMissingNumber(arr, n);
+    cout << "Missing Number is: " << OptimalMissingNumber(arr, n);
 
     return 0;
 }
