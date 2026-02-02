@@ -28,7 +28,7 @@ int main()
     int arrB[] = {1, 7, 3, 8, 2};
     int n = 5, m = 5;
 
-    // ✅ sort both arrays
+     
     sort(arrA, arrA + n);
     sort(arrB, arrB + m);
 
