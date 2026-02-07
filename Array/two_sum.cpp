@@ -9,15 +9,14 @@ void twoSum(int arr[], int n, int s)
         {
             if (arr[i] + arr[j] == s)
             {
-                cout << "Yes pair: ";
-                cout << "\nIndexes: " << i << " and " << j;
-                cout << "\nElements: "  << arr[i] << ", " << arr[j];
+                cout << "Yes pair: \nIndexes: " << i << " and " << j << "\nElements: " << arr[i] << ", " << arr[j];
                 return;
             }
         }
     }
     cout << "No";
 }
+
 int main()
 {
     int arr[] = {2, 6, 5, 8, 11};
