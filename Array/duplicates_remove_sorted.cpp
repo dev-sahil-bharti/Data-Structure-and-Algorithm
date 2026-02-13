@@ -19,7 +19,7 @@ int main()
     int arr[] = {1, 2, 3, 3, 5, 5, 6};
 
     int n = 7;
-    int NewLenght = removeDuplicates(arr, n);
+    int NewLength = removeDuplicates(arr, n);
 
     cout << "array is: ";
     for (int i = 0; i < n; i++)
@@ -28,7 +28,7 @@ int main()
     }
 
     cout << "\nremove duplicates: ";
-    for (int i = 0; i < NewLenght; i++)
+    for (int i = 0; i < NewLength; i++)
     {
         cout << arr[i] << ", ";
     }
