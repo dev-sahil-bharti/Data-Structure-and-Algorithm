@@ -3,7 +3,11 @@ using namespace std;
 
 int main()
 {
-    int a = 81, b = 8;
-    cout << a^b;
+    string name = "";
+    for (int i = 0; i <= 1001; i++)
+    {
+        cout << i <<" - "<< name << endl;
+    }
+
     return 0;
 }
