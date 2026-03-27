@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+// first method
 void selectionSort(vector<int> &arr, int n)
 {
     for (int i = 0; i < n - 1; i++)
@@ -19,6 +20,7 @@ void selectionSort(vector<int> &arr, int n)
     }
 }
 
+ 
 void printArray(vector<int> &arr, int n)
 {
     for (int i = 0; i < n; i++)
